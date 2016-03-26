@@ -1,2 +1,2 @@
 # CompleteBeginer
-Belajar tentang Bahasa Java
+Belajar Bahasa Java Dasar
