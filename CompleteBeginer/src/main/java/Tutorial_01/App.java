@@ -1,4 +1,4 @@
-package com.hasbi;
+package Tutorial_01;
 
 /**
  * Hello world!
